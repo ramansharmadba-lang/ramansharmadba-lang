@@ -16,10 +16,11 @@ I enjoy working with data to clean, analyze, visualize, and generate meaningful 
 ## 📊 Projects
 
 #### 🍔 Swiggy Sales Dashboard
-Cleaned and analyzed food-delivery order data using Excel
-Built PivotTables and PivotCharts for exploratory analysis
-Identified sales trends across time, cities, states, and food type
-Created an interactive dashboard with business insights (top cities, top state, top category, veg vs non-veg split)
+
+* Cleaned and analyzed food-delivery order data using Excel
+* Built PivotTables and PivotCharts for exploratory analysis
+* Identified sales trends across time, cities, states, and food type
+* Created an interactive dashboard with business insights (top cities, top state, top category, veg vs non-veg split)
 
 ### 🏥 Retail Sales Analysis
 
