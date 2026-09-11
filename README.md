@@ -22,6 +22,12 @@ I enjoy working with data to clean, analyze, visualize, and generate meaningful 
 * Identified sales trends across time, cities, states, and food type
 * Created an interactive dashboard with business insights (top cities, top state, top category, veg vs non-veg split)
 
+#### 💰 KBC Style Quiz Game
+* Built an interactive quiz game using Python and Streamlit
+* Implemented session-state logic to track score, progress, and game-over conditions
+* Designed a prize-ladder system inspired by KBC (₹1L to ₹60L)
+* Added real-time feedback, progress bar, and replay functionality
+
 ### 🏥 Retail Sales Analysis
 
 * Cleaned and analyzed healthcare data using Python and SQL
