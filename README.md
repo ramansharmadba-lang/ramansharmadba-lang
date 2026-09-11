@@ -15,7 +15,7 @@ I enjoy working with data to clean, analyze, visualize, and generate meaningful 
 
 ## 📊 Projects
 
-### 🏥 Healthcare Data Analysis
+### 🏥 Retail Sales Analysis
 
 * Cleaned and analyzed healthcare data using Python and SQL
 * Performed exploratory data analysis
